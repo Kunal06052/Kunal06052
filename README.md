@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on webdev
 - 📫 How to reach me Linkedin - www.linkedin.com/in/kunalverma0506
+- 4 star in Python on Hacker rank
+- 50 + Leetcode DSA questions
 
 <!---
 Kunal06052/Kunal06052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
