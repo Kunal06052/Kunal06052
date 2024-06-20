@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunal06052
+- 👋 Hi, I’m Kunal Verma
 - 👀 I’m interested in Data Science
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me Linkedin - www.linkedin.com/in/kunalverma0506
